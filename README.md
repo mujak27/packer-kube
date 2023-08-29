@@ -1,3 +1,5 @@
+# This repo is forked from Christian Lempa's Boilerplates and only takes its packer boilerplate and customized to create a golden image for kubernetes deployment
+
 # Christian's `Boilerplates`
 
 Hi, there! 👋
